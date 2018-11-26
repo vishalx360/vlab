@@ -1,0 +1,14 @@
+{
+  "name": "vlab",
+  "version": "1.0.0",
+  "description": "simple lab report generator",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "vishal kumar",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^3.0.10"
+  }
+}
